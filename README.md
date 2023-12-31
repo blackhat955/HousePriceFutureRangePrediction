@@ -1,4 +1,4 @@
-# House Price Range Prediction (UK)
+# House Price Range Prediction 
 
 The **House Price Range Prediction (UK)** project utilizes data from the UK housing market spanning 1995 to 2023, provided by HM Land Registry. This project aims to predict future home price ranges, offering valuable insights to potential home buyers based on property attributes such as locality, postcode, district, and county. 
 
